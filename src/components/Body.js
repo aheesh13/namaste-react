@@ -17,7 +17,7 @@ const Body = () => {
     return (
         <div className="body">
             <div className="filter">
-                <button className="filter-btn" onClick={handleClick}>
+                <button className="filter-btn" onClick = {handleClick}>
                     Top Rated Restaurants
                 </button>
             </div>
